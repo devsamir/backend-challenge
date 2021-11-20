@@ -125,4 +125,4 @@ function result(sessions) {
   }, []);
 }
 
-console.log(JSON.stringify(result(sessions)));
+console.log(result(sessions));
